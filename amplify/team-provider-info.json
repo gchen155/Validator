@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-validatorapp-dev-154931-authRole",
+      "UnauthRoleArn": "arn:aws:iam::041414866712:role/amplify-validatorapp-dev-154931-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::041414866712:role/amplify-validatorapp-dev-154931-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-validatorapp-dev-154931-deployment",
+      "UnauthRoleName": "amplify-validatorapp-dev-154931-unauthRole",
+      "StackName": "amplify-validatorapp-dev-154931",
+      "StackId": "arn:aws:cloudformation:us-west-2:041414866712:stack/amplify-validatorapp-dev-154931/589098d0-3ff9-11eb-a218-029aad44375d",
+      "AmplifyAppId": "d1b4gesyiobk32"
+    },
+    "categories": {
+      "auth": {
+        "validatorapp3bf9cb95": {}
+      }
+    }
+  }
+}
