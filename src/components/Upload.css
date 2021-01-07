@@ -1,0 +1,25 @@
+.file-upload-btn {
+    width: 150px;
+    margin: 0;
+    color: #ECE3CD;
+    background: #8C1515;
+    border: .01;
+    padding: 10px;
+    transition: all .2s ease;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 200;
+  }
+  
+  .file-upload-btn:hover {
+    background: #E46900;
+    color: #ECE3CD;
+    transition: all .2s ease;
+    cursor: pointer;
+    border: .01;
+  }
+  
+  .file-upload-btn:active {
+    transition: all .2s ease;
+    border: .01;
+  }
